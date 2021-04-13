@@ -14,8 +14,9 @@ Feel free to share, improve, and suggest new designs !
 
 ## Fonts
 
-Name and logos: [Teko](https://fonts.google.com/specimen/Teko?preview.text_type=custom&preview.text=ID6)
-Headings and general text: [Sunflower](https://fonts.google.com/specimen/Sunflower?preview.text_type=custom)
+**Name and logos:** [Teko](https://fonts.google.com/specimen/Teko?preview.text_type=custom&preview.text=ID6)
+
+**Headings and general text:** [Sunflowe](https://fonts.google.com/specimen/Sunflower?preview.text_type=custom)
 
 ## Favicon
 
